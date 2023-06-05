@@ -1,0 +1,24 @@
+.social-media {
+  height: 7rem;
+  width: 100%;
+  margin: 0px;
+  background-color: rgb(216, 198, 198);
+}
+
+.social-media-btn {
+  margin: 5%;
+  font-family: Segoe Print;
+}
+
+.social-media-logo {
+  padding: 20px 20px;
+}
+.social-media-logo:hover {
+  transform: scale(1.1);
+}
+
+.social-media-text {
+  font-size: larger;
+  font-weight: bold;
+  font-family: Segoe Print;
+}

@@ -1,0 +1,10 @@
+.album {
+  height: 90vh;
+  padding: 20px;
+  background-color: brown;
+}
+
+.carousel-image {
+  max-height: 85vh;
+  overflow: hidden;
+}

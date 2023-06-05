@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  background-color: brown;
+}
+
+.header-container-link {
+  display: flex;
+  justify-content: space-around;
+  width: 30%;
+  color: aliceblue;
+}
+
+.header-link {
+  text-decoration: none;
+}
+
+.nav-link {
+  color: aliceblue;
+  font-size: larger;
+  font-family: Segoe Print;
+}
+.logo {
+  width: 50px;
+  color: aliceblue;
+}

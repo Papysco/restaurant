@@ -1,0 +1,43 @@
+.info {
+  min-height: 90vh;
+  color: whitesmoke;
+  position: relative;
+}
+
+.info-container {
+  padding-top: 8rem;
+}
+
+.image {
+  background-image: url("/src/images/pizza-background.jpg");
+  height: 100%;
+  width: 100%;
+  filter: blur(4px);
+  -webkit-filter: blur(4px);
+  position: absolute;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;
+}
+
+.info-titre {
+  font-weight: bold;
+  font-size: 4rem;
+  font-family: Segoe Print;
+}
+
+.info-text {
+  font-size: x-large;
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: Segoe Print;
+  line-height: 3rem;
+}
+
+.info-btn {
+  width: 10rem;
+  font-size: 1.3rem;
+  background-color: brown;
+}
